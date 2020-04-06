@@ -27,8 +27,9 @@ void loop() {
 
 for (i=0;i<=50;i++)
 {
-
+  // Create a lookup table for accurate waveform
   analogWrite(SPWM,i);
+  delay(20); 
   
   }
 }
