@@ -27,9 +27,13 @@ void loop() {
 
 for (i=0;i<=50;i++)
 {
-  // Create a lookup table for accurate waveform
+  // Create a lookup table for accurate waveform 
   analogWrite(SPWM,i);
   delay(20); 
+  // implement the fast PWM function as the default analogWrite has a frequenct ~950Hz which is very less 
+  // create the protection scheme 
+  // decide the ISRs
+  // measurement scheme
   
   }
 }
