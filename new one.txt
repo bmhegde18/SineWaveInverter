@@ -1,3 +1,6 @@
 References:
 
 Next steps:
+
+Complete the protection requirements 
+Complete the simulation study
