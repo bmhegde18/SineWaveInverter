@@ -4,3 +4,4 @@ Next steps:
 
 Complete the protection requirements 
 Complete the simulation study
+Add the code with fast PWM
