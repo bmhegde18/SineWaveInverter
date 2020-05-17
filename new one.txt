@@ -5,3 +5,4 @@ Next steps:
 Complete the protection requirements 
 Complete the simulation study
 Add the code with fast PWM
+Calculation of the time and samples to generate the fast pwm
