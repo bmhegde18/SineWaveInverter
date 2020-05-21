@@ -7,4 +7,4 @@ Complete the simulation study for the filter part
 Add the code with fast PWM
 Calculation of the time and samples to generate the fast pwm
 Setup the arduino and Keil in the PC
-
+Timing calculation 
